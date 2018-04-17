@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #2dc997;
+  color: #FF8C00;
 }
 
 a:hover, a:active, a:focus {
-  color: #2dca98;
+  color: #FF8C00;
   outline: none;
   text-decoration: none;
 }
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #FF8C00;
   color: #fff;
 }
 
@@ -218,8 +218,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #FF8C00;
+  border: 2px solid #FF8C00;
 }
 
 /*--------------------------------------------------------------
@@ -863,7 +863,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #FF8C00;
   float: left;
 }
 
@@ -885,7 +885,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #333;
+  background: #FF8C00;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -897,7 +897,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a:hover {
-  background: #2dc997;
+  background: #FF8C00;
   color: #fff;
 }
 
