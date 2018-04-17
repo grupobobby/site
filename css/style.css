@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(52, 59, 64, 0.9);
+  background: #FF8C00;
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -442,11 +442,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #2dc997;
+  color: #FF8C00;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #2dc997;
+  color: #FF8C00;
 }
 
 #mobile-body-overly {
