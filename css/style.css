@@ -544,11 +544,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 16px;
   border-radius: 50%;
-  border: 2px solid #2dc997;
+  border: 2px solid #FF8C00;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #2dc997;
+  color: #FF8C00;
   font-size: 24px;
 }
 
@@ -580,7 +580,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #facts .counters span {
   font-size: 48px;
   display: block;
-  color: #2dc997;
+  color: #FF8C00;
 }
 
 #facts .counters p {
@@ -621,7 +621,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services .icon a {
   display: inline-block;
   background: #FF8C00;
-  border: 2px solid #2dc997;
+  border: 2px solid #FF8C00;
   padding: 16px;
   border-radius: 50%;
   transition: 0.3s;
@@ -633,11 +633,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box:hover .icon i {
-  color: #2dc997;
+  color: #FF8C00;
 }
 
 #services .box:hover .icon a {
-  color: #2dc997;
+  color: #FF8C00;
   background: #fff;
 }
 
