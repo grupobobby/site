@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #2dc997;
+  background-color: #FF8C00;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li a:hover {
-  background: #2dc997;
+  background: #FF8C00;
   color: #fff;
 }
 
@@ -885,7 +885,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #FF8C00;
+  background: #3b5998;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -897,7 +897,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a:hover {
-  background: #FF8C00;
+  background: #3b5998;
   color: #fff;
 }
 
